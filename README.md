@@ -12,6 +12,7 @@ We're hiring! We're looking for skilled developers;
 send your resume to hiring@highfidelity.io
 
 ##### Chat with us
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Adrianl3d/hifi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Come chat with us in [our Gitter](http://gitter.im/highfidelity/hifi) if you have any questions or just want to say hi!
 
 Build Instructions 
